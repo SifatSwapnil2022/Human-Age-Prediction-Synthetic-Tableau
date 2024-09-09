@@ -35,3 +35,7 @@ Ideal for machine learning models aimed at age prediction based on health and li
 
 Limitations:
 As synthetic data, it may not fully represent the complexities of real-world data. Users should exercise caution when drawing conclusions or applying models trained on this data.
+
+
+#output tableau project  :::::::::::
+![Screenshot (431)](https://github.com/user-attachments/assets/c10d6c69-bd36-422b-94b7-a746e03233e7)
